@@ -15,3 +15,7 @@ Set up the Ubuntu Server 16.04 LTS VM:
 7. Set python variable. 
   $ nano ~/.bashrc
   Append this line: alias python=python2.7
+8. sudo apt-get install python-pip
+9. pip install 'pexpect'
+
+Now you're ready to rock and roll.
