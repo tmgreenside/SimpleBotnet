@@ -17,5 +17,6 @@ Set up the Ubuntu Server 16.04 LTS VM:
   Append this line: alias python=python2.7
 8. sudo apt-get install python-pip
 9. pip install 'pexpect'
+10. Change the information in the call to addClient() to match your target IP address, user, and password.
 
 Now you're ready to rock and roll.
